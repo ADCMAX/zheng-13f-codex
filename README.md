@@ -7,7 +7,9 @@
 - 點選新增家具查看來源，切換日夜及室內照明。
 - 圖集提供 Cycles 效果圖與固定視點全景。
 
-GitHub Pages：從 main 分支根目錄部署。首頁會開啟互動漫遊。
+公開網址：https://adcmax.github.io/zheng-13f-codex/
+
+GitHub Pages 從 main 分支根目錄部署；首頁開啟互動漫遊。
 
 ## 素材署名
 
