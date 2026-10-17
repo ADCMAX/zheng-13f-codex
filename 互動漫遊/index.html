@@ -1,0 +1,16 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><title>鄭公館｜互動 3D 漫遊</title><link rel="stylesheet" href="style.css"><script type="importmap">{"imports":{"three":"./vendor/build/three.module.js","three/addons/":"./vendor/examples/jsm/"}}</script></head><body>
+<div id="viewport" aria-label="互動住宅 3D 畫面"></div>
+<header><div class="brand">鄭公館 <small>INTERACTIVE RESIDENCE / CODEX</small></div><a href="../空間導覽/index.html">寫實圖集 ↗</a></header>
+<section id="loading" class="veil"><div class="welcome"><p class="eyebrow">YOUR SPACE, YOUR PACE</p><h1>走進去，<br>才是家的尺度。</h1><p>在真實 3D 模型裡自由探索。<br>走近家具、切換光線，找到喜歡的角度。</p><div class="progress"><span id="bar"></span></div><p id="load-status" role="status">正在準備模型…</p><button id="enter" disabled>載入中</button><p class="small">桌機：W A S D 移動 · 拖曳轉向<br>手機：左下搖桿移動 · 右側滑動轉向</p></div></section>
+<div id="hud" hidden>
+ <nav id="room-nav" aria-label="快速前往房間"></nav>
+ <aside class="tools" aria-label="環境控制"><button id="light" aria-pressed="true">☼ 室內燈</button><button id="time" aria-pressed="false">◐ 夜間</button><button id="map-toggle" aria-pressed="true">⌖ 地圖</button><button id="reset">↶ 回到客廳</button><button id="help">? 操作</button></aside>
+ <div id="map-panel"><canvas id="map" width="252" height="232" aria-label="平面位置小地圖"></canvas><span>你的位置 · 點房間按鈕快速前往</span></div>
+ <div id="reticle" aria-hidden="true">+</div><div id="hint" role="status">WASD 移動 · 拖曳轉向 · 點選家具查看</div>
+ <div id="joystick" aria-label="拖曳搖桿移動"><span id="stick"></span></div>
+ <div class="step-controls"><button id="turn-left" aria-label="向左轉">↶</button><button id="step-forward" aria-label="向前一步">↑</button><button id="step-back" aria-label="向後一步">↓</button><button id="turn-right" aria-label="向右轉">↷</button></div><div class="bottom-actions"><button id="walk">開始滑鼠漫遊</button><button id="inspect">查看前方家具</button><button id="fullscreen" aria-label="切換全螢幕">⛶</button></div>
+ <aside id="details" hidden><button id="close-details" aria-label="關閉家具資訊">×</button><p class="eyebrow">OBJECT DETAILS</p><h2 id="item-title"></h2><p id="item-copy"></p><p id="item-source"></p><a id="item-link" target="_blank" rel="noopener">查看素材來源 ↗</a></aside>
+ <div id="telemetry" aria-live="off"></div>
+</div>
+<dialog id="help-dialog"><button id="close-help" aria-label="關閉操作說明">×</button><h2>自在探索</h2><p><b>桌機</b><br>WASD／方向鍵：移動<br>按住畫面拖曳：轉向<br>「開始滑鼠漫遊」：鎖定滑鼠，Esc 退出<br>Shift：快走 · E：查看前方家具</p><p><b>手機</b><br>左下搖桿：前後左右移動<br>其餘畫面滑動：轉向<br>點「查看前方家具」：查看準星指向的家具</p><p>房間按鈕可快速定位；小地圖會跟隨位置。牆體及家具會阻擋移動。即時版為效能縮減模型，寫實渲染另存於圖集。</p><a href="../交付說明與署名.md">素材署名</a></dialog>
+<script type="module" src="app.js"></script></body></html>

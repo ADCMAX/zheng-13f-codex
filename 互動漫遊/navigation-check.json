@@ -1,0 +1,39 @@
+{
+  "passed": true,
+  "rooms": [
+    {
+      "name": "living",
+      "x": 3.25,
+      "y": -0.45
+    },
+    {
+      "name": "dining",
+      "x": 2.65,
+      "y": -1.25
+    },
+    {
+      "name": "master",
+      "x": -3.05,
+      "y": 1.02
+    },
+    {
+      "name": "kids",
+      "x": 0.92,
+      "y": 1.25
+    },
+    {
+      "name": "study",
+      "x": 0.040000000000000036,
+      "y": -1.9599999999999995
+    },
+    {
+      "name": "kitchen",
+      "x": 2.2,
+      "y": -3.15
+    }
+  ],
+  "connectedWalkableCells": 5535,
+  "blockedCellsVerified": 5491,
+  "gridResolutionMetres": 0.08,
+  "bodyRadiusMetres": 0.15
+}

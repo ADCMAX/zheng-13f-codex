@@ -1,0 +1,942 @@
+[
+  {
+    "original": {
+      "item": "fridge",
+      "name": "Refrigerator / Холодильник (Low poly)",
+      "author": "marishka1611",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/2829178402f74fee856f0f51ad824ed9"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "marishka1611",
+    "source": "https://sketchfab.com/3d-models/refrigerator-low-poly-2829178402f74fee856f0f51ad824ed9",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "tv",
+      "name": "Flat Screen Television",
+      "author": "hippostance",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/f90d4fb91dd34b6791e8d66d00f96591"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "HippoStance",
+    "source": "https://sketchfab.com/3d-models/flat-screen-television-f90d4fb91dd34b6791e8d66d00f96591",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "ricecooker",
+      "name": "Rice cooker (炊飯器)",
+      "author": "horse_water",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/0dcc5c7c67d547f28deba21d20d45e9b"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "horse_water",
+    "source": "https://sketchfab.com/3d-models/rice-cooker-0dcc5c7c67d547f28deba21d20d45e9b",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "microwave",
+      "name": "Oven, Microwave and Winecooler",
+      "author": "lutzwesterfeld",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/60ffe27b68dd4f9cb9f79b7b61350311"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "lutz_westerfeld",
+    "source": "https://sketchfab.com/3d-models/oven-microwave-and-winecooler-60ffe27b68dd4f9cb9f79b7b61350311",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "coffee",
+      "name": "coffee espresso machine saeco_poemia",
+      "author": "BonchBryBonch",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/ed44d015d924440894be1326f94cf44e"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "BonchBryBonch",
+    "source": "https://sketchfab.com/3d-models/coffee-espresso-machine-saeco-poemia-ed44d015d924440894be1326f94cf44e",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "ac",
+      "name": "3D Air Conditioner AC - Mid Poly",
+      "author": "manix3d",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/df5632e9fbee477fa71c882ba3397c46"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "Manix3D",
+    "source": "https://sketchfab.com/3d-models/3d-air-conditioner-ac-mid-poly-df5632e9fbee477fa71c882ba3397c46",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "washer",
+      "name": "Washing Machine (new)",
+      "author": "bulgakov",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/82c91049303f4664a56cc0eaffa8d662"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "nikita.bulgakov",
+    "source": "https://sketchfab.com/3d-models/washing-machine-new-82c91049303f4664a56cc0eaffa8d662",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "toilet",
+      "name": "toilet",
+      "author": "motaman",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/c98c73d7b70e4635b8cc01705915aea6"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "motaman",
+    "source": "https://sketchfab.com/3d-models/toilet-c98c73d7b70e4635b8cc01705915aea6",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "vanity",
+      "name": "Legion Single Sink Bathroom Vanity & Sink",
+      "author": "allenbranch",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/750dfa5fab444c28baf30e063d2b56d3"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "allenbranch",
+    "source": "https://sketchfab.com/3d-models/legion-single-sink-bathroom-vanity-sink-750dfa5fab444c28baf30e063d2b56d3",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "aquarium",
+      "name": "Fishless Aquarium",
+      "author": "Gabriela_Ojeda",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/f0a50d4d635d4eb28088ba65c5dfb175"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "Gabriela_Ojeda",
+    "source": "https://sketchfab.com/3d-models/fishless-aquarium-f0a50d4d635d4eb28088ba65c5dfb175",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "shoes",
+      "name": "Brown Sneakers",
+      "author": "yanix",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/e6c51d2e77d945d1a0efbca530fb4b5b"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "yanix",
+    "source": "https://sketchfab.com/3d-models/brown-sneakers-e6c51d2e77d945d1a0efbca530fb4b5b",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "clothes",
+      "name": "Hanging Shirt By Camille Kleinman",
+      "author": "camillekleinman",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/117fc4a6e8304a858dfaf2adc2c782a0"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "camillekleinman",
+    "source": "https://sketchfab.com/3d-models/hanging-shirt-by-camille-kleinman-117fc4a6e8304a858dfaf2adc2c782a0",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "towel",
+      "name": "Towels I",
+      "author": "orphanrtg",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/3d53fc8e352443e1ac9971ec780a8a88"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "Оrрндп ЯТG",
+    "source": "https://sketchfab.com/3d-models/towels-i-3d53fc8e352443e1ac9971ec780a8a88",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "hob",
+      "name": "Cooktop Eletrolux",
+      "author": "rodrigogelmi",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/4ae15c384cb1446f86f0e0b3c019b443"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "gelmi.com.br",
+    "source": "https://sketchfab.com/3d-models/cooktop-eletrolux-4ae15c384cb1446f86f0e0b3c019b443",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "hood",
+      "name": "Range_hood",
+      "author": "rickmaolly",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/4033aa7ba4ef4d4c87ab7f514ac4ae44"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "rickmaolly",
+    "source": "https://sketchfab.com/3d-models/range-hood-4033aa7ba4ef4d4c87ab7f514ac4ae44",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "heater",
+      "name": "Gaz water heater",
+      "author": "1-3D.com",
+      "license": "CC BY-SA",
+      "url": "https://sketchfab.com/3d-models/2ff78c598c654e36959ed8d3a2c39a43"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/b9ddc40b93e34cdca1fc152f39b9f375",
+      "label": "CC Attribution-ShareAlike",
+      "fullName": "Creative Commons Attribution-ShareAlike",
+      "requirements": "Author must be credited. Modified versions must have the same license. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "slug": "by-sa"
+    },
+    "checked_author": "1-3D.com",
+    "source": "https://sketchfab.com/3d-models/gaz-water-heater-2ff78c598c654e36959ed8d3a2c39a43",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "robovac",
+      "name": "Robot Vacuum Cleaner",
+      "author": "GeniusPilot2016",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/d850de3997934dee8c63efa41ec1dea3"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "GeniusPilot2016",
+    "source": "https://sketchfab.com/3d-models/robot-vacuum-cleaner-d850de3997934dee8c63efa41ec1dea3",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "monitor",
+      "name": "Monitor",
+      "author": "microsoft",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/d80755755dba4169a9605f591296f53e"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "Microsoft",
+    "source": "https://sketchfab.com/3d-models/monitor-d80755755dba4169a9605f591296f53e",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "officechair",
+      "name": "Office chair",
+      "author": "inven2000",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/af2f07d06f6349158c1d24d87f5ceb95"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "AK STUDIO",
+    "source": "https://sketchfab.com/3d-models/office-chair-af2f07d06f6349158c1d24d87f5ceb95",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "utensils",
+      "name": "Kitchen utensils in the pot",
+      "author": "moreirahelder21",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/f7dd54326edc4f1b99aa6610f872e723"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "moreirahelder21",
+    "source": "https://sketchfab.com/3d-models/kitchen-utensils-in-the-pot-f7dd54326edc4f1b99aa6610f872e723",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "dryrack",
+      "name": "Clothes Drying Rack",
+      "author": "adef",
+      "license": "CC BY",
+      "url": "https://sketchfab.com/3d-models/d0a46dbdf39345e3a4c12157ebc0c2a8"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "Alex",
+    "source": "https://sketchfab.com/3d-models/clothes-drying-rack-d0a46dbdf39345e3a4c12157ebc0c2a8",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "sofa2",
+      "name": "Tan Modern Livingroom sofa with Wood support",
+      "author": "whitewashstudio",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/32099d393bab43b98a5efbf13a39d37d"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "Marc Sawyer",
+    "source": "https://sketchfab.com/3d-models/tan-modern-livingroom-sofa-with-wood-support-32099d393bab43b98a5efbf13a39d37d",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "bed2",
+      "name": "Modern bed",
+      "author": "super-valentin",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/dff77bbdb8854ba4afe502af5068d8f9"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "ArchVibe 3D",
+    "source": "https://sketchfab.com/3d-models/modern-bed-dff77bbdb8854ba4afe502af5068d8f9",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "lamp2",
+      "name": "Modern Lamp",
+      "author": "nickvarts",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/3572234e084a455ba329944e5fb309ba"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "nickvarts",
+    "source": "https://sketchfab.com/3d-models/modern-lamp-3572234e084a455ba329944e5fb309ba",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "desk2",
+      "name": "Standing Desk",
+      "author": "Superenforcer_xp",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/16a889b775c04ad79bd24413a44df9f3"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "Superenforcer_xp",
+    "source": "https://sketchfab.com/3d-models/standing-desk-16a889b775c04ad79bd24413a44df9f3",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "gamingchair",
+      "name": "Gaming Chair [FREE DOWNLOAD]",
+      "author": "Karldashian",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/bcb13eb7ef9e4c3c9499aacff6c79757"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "Karlos",
+    "source": "https://sketchfab.com/3d-models/gaming-chair-free-download-bcb13eb7ef9e4c3c9499aacff6c79757",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "kidchair",
+      "name": "Apex 03 office chair",
+      "author": "rongphuongbacfurniture",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/267d8545b1434fac86e5b22fbc95a79a"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "rongphuongbacfurniture",
+    "source": "https://sketchfab.com/3d-models/apex-03-office-chair-267d8545b1434fac86e5b22fbc95a79a",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "dchair",
+      "name": "Plastic Chair",
+      "author": "Eshi_Nito",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/e1683de851d54d5db893d1d64bd015aa"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "Puneet Sharma",
+    "source": "https://sketchfab.com/3d-models/plastic-chair-e1683de851d54d5db893d1d64bd015aa",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "microwave2",
+      "name": "Microwave Oven",
+      "author": "Mustafa97",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/3421e492257f40959859104f46128304"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "MustafaYerebasmaz",
+    "source": "https://sketchfab.com/3d-models/microwave-oven-3421e492257f40959859104f46128304",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "oven2",
+      "name": "SamMicroWm",
+      "author": "anybody",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/69a33a97aa884e98be90b1cf87715cc2"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "anybody",
+    "source": "https://sketchfab.com/3d-models/sammicrowm-69a33a97aa884e98be90b1cf87715cc2",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "dispenser2",
+      "name": "Water Dispenser",
+      "author": "dmytronikonov",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/457cd4e59d634c4cafc67d32b8212032"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "Dmytro Nikonov",
+    "source": "https://sketchfab.com/3d-models/water-dispenser-457cd4e59d634c4cafc67d32b8212032",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "faucet2",
+      "name": "Mixer",
+      "author": "GeneGrad",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/224b2e1336b641d4b8f3414260dc5522"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "GeneGrad",
+    "source": "https://sketchfab.com/3d-models/mixer-224b2e1336b641d4b8f3414260dc5522",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "ksink2",
+      "name": "Elkay Crosstown Single Bowl Sink - ECTRU12179T",
+      "author": "goakley",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/8fc539c1bd3144808421a290642e9615"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "goakley",
+    "source": "https://sketchfab.com/3d-models/elkay-crosstown-single-bowl-sink-ectru12179t-8fc539c1bd3144808421a290642e9615",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "gchair2",
+      "name": "Black ergonomic gaming chair",
+      "author": "3dUVpro",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/c215aa3fc1894daca7d38b30ef0889a3"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "3dUVpro",
+    "source": "https://sketchfab.com/3d-models/black-ergonomic-gaming-chair-c215aa3fc1894daca7d38b30ef0889a3",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "diningset",
+      "name": "Dining Table Set",
+      "author": "uka.studio",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/71444e9d3e204d4ca9478d383403834d"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "Uka Studio",
+    "source": "https://sketchfab.com/3d-models/dining-table-set-71444e9d3e204d4ca9478d383403834d",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "rug2",
+      "name": "Carpet",
+      "author": "haihannah",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/3e861135a1b742779f14e2f1bfa43072"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "Hannah Sapiee",
+    "source": "https://sketchfab.com/3d-models/carpet-3e861135a1b742779f14e2f1bfa43072",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "pendant2",
+      "name": "IKEA SVARTNORA Lamp",
+      "author": "mfb64",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/cb55859f3bad4c4e8821d3bc9d01e55d"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "mfb64",
+    "source": "https://sketchfab.com/3d-models/ikea-svartnora-lamp-cb55859f3bad4c4e8821d3bc9d01e55d",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "printer2",
+      "name": "Inkjet printer and scanner",
+      "author": "1-3D.com",
+      "license": "CC Attribution-ShareAlike",
+      "url": "https://sketchfab.com/3d-models/ecb6f40c66ff4307a3eadb67cabc83dc"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/b9ddc40b93e34cdca1fc152f39b9f375",
+      "label": "CC Attribution-ShareAlike",
+      "fullName": "Creative Commons Attribution-ShareAlike",
+      "requirements": "Author must be credited. Modified versions must have the same license. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "slug": "by-sa"
+    },
+    "checked_author": "1-3D.com",
+    "source": "https://sketchfab.com/3d-models/inkjet-printer-and-scanner-ecb6f40c66ff4307a3eadb67cabc83dc",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "saltlamp2",
+      "name": "Salt lamp",
+      "author": "saltyshiro",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/d72acf4562a9442ca3f923c1e6b6bea2"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "saltyshiro",
+    "source": "https://sketchfab.com/3d-models/salt-lamp-d72acf4562a9442ca3f923c1e6b6bea2",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "wok2",
+      "name": "Wok_Homework10",
+      "author": "allegory.fake",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/c268b7cb334b4d2a8ccfaad3219603b3"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "Citflo",
+    "source": "https://sketchfab.com/3d-models/wok-homework10-c268b7cb334b4d2a8ccfaad3219603b3",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "shower3",
+      "name": "Like Shower Set",
+      "author": "dm3V",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/83938a58e0f84fd0b2ffc8fb0af5824e"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "dm3V",
+    "source": "https://sketchfab.com/3d-models/like-shower-set-83938a58e0f84fd0b2ffc8fb0af5824e",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "curtain3",
+      "name": "Curtain Fabric with Organic Pattern",
+      "author": "whitewashstudio",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/0d672a10acf94737ba672b4f747f9c97"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "Marc Sawyer",
+    "source": "https://sketchfab.com/3d-models/curtain-fabric-with-organic-pattern-0d672a10acf94737ba672b4f747f9c97",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "mattress3",
+      "name": "Single Bed Blanket",
+      "author": "whewnewacc",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/14084f216e834241a7f152cdfa4e5d59"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "whewnewacc",
+    "source": "https://sketchfab.com/3d-models/single-bed-blanket-14084f216e834241a7f152cdfa4e5d59",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "vacuum3",
+      "name": "Vacuumed Cleaner",
+      "author": "Panda_..",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/f5739f98cabd4a6fa15b795cb8fb7f42"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "Panda",
+    "source": "https://sketchfab.com/3d-models/vacuumed-cleaner-f5739f98cabd4a6fa15b795cb8fb7f42",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "basin3",
+      "name": "Wash Basin Stand",
+      "author": "renviros",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/b02727808f1f46468e071edfd291060e"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "Ren Viro Store",
+    "source": "https://sketchfab.com/3d-models/wash-basin-stand-b02727808f1f46468e071edfd291060e",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "bathsup",
+      "name": "Bathroom Supplies",
+      "author": "CKOgames",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/ef9e5c199e704f6fb78d173c451ec18c"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "CKModels",
+    "source": "https://sketchfab.com/3d-models/bathroom-supplies-ef9e5c199e704f6fb78d173c451ec18c",
+    "status": "verified_public_metadata"
+  },
+  {
+    "original": {
+      "item": "towelrack",
+      "name": "Towel Racks 02",
+      "author": "OliverMatheGames",
+      "license": "CC Attribution",
+      "url": "https://sketchfab.com/3d-models/ceb7ac69e75f472ea6708a81f069766b"
+    },
+    "checked_license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "checked_author": "OliverMatheGames",
+    "source": "https://sketchfab.com/3d-models/towel-racks-02-ceb7ac69e75f472ea6708a81f069766b",
+    "status": "verified_public_metadata"
+  }
+]
